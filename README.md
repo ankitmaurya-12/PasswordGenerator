@@ -1,4 +1,6 @@
-# React + Vite
+# Password Generator
+
+you can generate password from here (https://ankit-passwordgenerator.netlify.app/)
 
 
 
