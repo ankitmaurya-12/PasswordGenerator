@@ -1,4 +1,6 @@
-# React + Vite
+# Password Generator
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b328d12e-5a9a-4eb4-a4b8-df37ed83a6c4/deploy-status)](https://app.netlify.com/sites/ankit-passwordgenerator/deploys)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
